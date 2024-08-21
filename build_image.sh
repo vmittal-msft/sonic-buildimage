@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash.....
 ## This script is to generate an ONIE installer image based on a file system overload
 
 ## Enable debug output for script
